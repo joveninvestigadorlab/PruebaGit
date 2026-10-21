@@ -1,1 +1,3 @@
-Mi primer archivo cargado a github
+Mi primer archivo
+Agregar otras funcionalidades
+Aaaaaaaa
